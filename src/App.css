@@ -1,0 +1,11 @@
+.App {
+  width: auto;
+  max-width: 90%;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: 8%;
+  margin-right: 8%;
+}
+body{
+  background-color: rgb(245, 241, 241);
+}
